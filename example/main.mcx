@@ -1,0 +1,3 @@
+div.someClass#someID {
+    "someChild"
+}
